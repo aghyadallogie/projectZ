@@ -1,0 +1,28 @@
+{
+  "name": "werkStatt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.8",
+    "react-scripts": "^3.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZakariaHn/werkStatt.git"
+  },
+  "keywords": [],
+  "author": "Zakaria Hamdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZakariaHn/werkStatt/issues"
+  },
+  "homepage": "https://github.com/ZakariaHn/werkStatt#readme"
+}
